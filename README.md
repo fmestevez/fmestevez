@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on programmatic Marketing stuff at Tactile Games!
-- 🌱 I’m currently learning about GLSL shaders.
+- 🌱 I’m always learning about game development.
 - 👯 I’m looking to collaborate on any OSS games!
 - 🤔 I’m looking for help with... life?
 - 💬 Ask me about anything.
